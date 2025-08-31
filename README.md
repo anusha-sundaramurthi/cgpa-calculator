@@ -54,15 +54,14 @@ A comprehensive CGPA, GPA & Grade Tracking System specially designed for Compute
 - **Performance**: Lightweight and fast
 - **Compatibility**: Works on all modern browsers
 
-## 🤝 Contributing
 
-Found a bug or want to suggest improvements? Feel free to:
-- Open an issue
-- Submit a pull request
-- Share feedback
+
 
 
 Your academic excellence today becomes tomorrow's innovation!
 
 Made with ❤️ for Women's Engineering College Computer Science Students
+
+
+
 Calculate • Excel • Achieve • Inspire
